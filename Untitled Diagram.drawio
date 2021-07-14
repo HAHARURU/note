@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T07:20:36.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ZGLod1x45xQzJQEVkJdW" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T07:41:15.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="yNVxAfYNODTZbBJsPeDU" version="14.8.6" type="github">
   <diagram id="walVSMsDh5LgmIfHj4hT" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="Xrpvf3l47yjOxYBfOxb9-43" value="&lt;b&gt;调用引擎提交事务接口&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;fillStyle=zigzag;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xrpvf3l47yjOxYBfOxb9-45" value="&lt;b&gt;redo log变成commit状态&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;fillStyle=zigzag;shadow=0;glass=0;" vertex="1" parent="1">
+        <mxCell id="Xrpvf3l47yjOxYBfOxb9-45" value="&lt;b&gt;提交事务 redo log变成commit状态&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;fillStyle=zigzag;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
